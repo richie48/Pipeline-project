@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "APqUE+YI1V11/mX0L+EnCOR+tM+miPUHYH/9eI48+FGfLw5duZc3YkDUnVRClhcUvbduKsDIfkmYn+bEi2e49Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\odior\\source\\repos\\pipeline project\\pipeline project\\pipeline project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\odior\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\odior\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\odior\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\odior\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\odior\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\odior\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
